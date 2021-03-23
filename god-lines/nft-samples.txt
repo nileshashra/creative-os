@@ -1,0 +1,5 @@
+What if we could find a record company to invest 50K in an experiment:
+- We use the money to commission sample tracks/beats
+- We mint them using NFTs
+- From thereon, anyone who wants to use the sample, pays - and proceeds are split 50/50 automagically by the blockchain ledger.
+ 
